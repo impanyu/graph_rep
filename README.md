@@ -43,8 +43,4 @@ undirected graph whose file format is as follows(from 0 to N(number of nodes)):
 - [Graph Embedding and Extensions : A General Framework for Dimensionality Reduction](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4016549)
 - [Efficient Learning of Sparse Representations with an Energy-Based Model](https://papers.nips.cc/paper/3112-efficient-learning-of-sparse-representations-with-an-energy-based-model.pdf)
 - [Nonlinear dimensionality reduction by locally linear embedding](http://science.sciencemag.org/content/290/5500/2323.full)
-
-
-
-
-
+- [A unified data representation theory for network visualization ordering and coarse-graining](https://www.nature.com/articles/srep13786.pdf)
