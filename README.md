@@ -1,11 +1,10 @@
-##Graph Representation Learning
+## Graph Representation Learning
 
 - Graph representation learning utilizing graph architecture as computation graph
 
 
 #### code structure
 
-  <200b>
 
 #### requirements:
 
