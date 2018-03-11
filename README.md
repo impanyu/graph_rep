@@ -24,6 +24,3 @@ undirected graph whose file format is as follows(from 0 to N(number of nodes)):
 
 #### Run
 
-```cd src/GraphGAN```
-
-~                                   
