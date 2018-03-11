@@ -46,3 +46,5 @@ undirected graph whose file format is as follows(from 0 to N(number of nodes)):
 - [Efficient Estimation of Word Representation in Vector Space](https://arxiv.org/pdf/1301.3781.pdf)
 - [Learning Graph Representations with Embedding Propagation](https://papers.nips.cc/paper/7097-learning-graph-representations-with-embedding-propagation.pdf)
 - [A unified data representation theory for network visualization ordering and coarse-graining](https://www.nature.com/articles/srep13786.pdf)
+- [SKIP-GRAPH:  LEARNING  GRAPH  EMBEDDINGS  WITH AN ENCODER-DECODER MODEL](https://openreview.net/pdf?id=BkSqjHqxg)
+
